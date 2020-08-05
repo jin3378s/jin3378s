@@ -1,4 +1,6 @@
-### Hi there 👋
+# 안녕하세요. 정진석 입니다!👋
+
+
 
 <!--
 **jin3378s/jin3378s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
