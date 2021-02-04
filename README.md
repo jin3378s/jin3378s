@@ -1,6 +1,11 @@
 # 안녕하세요. 정진석 입니다!👋
 last modified at 2021-02-04
 
+## Contacts
+- E-mail : jin3378s@gmail.com
+- Blog : https://medium.com/@jin3378s
+
+
 ## at 코드스테이츠
 ### As Engineer
 - 저는 현재 코드스테이츠에서 Software Engineer 로 일하고 있고, Backend 개발을 주로 진행 하고 있어요.
