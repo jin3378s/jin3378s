@@ -1,13 +1,13 @@
 # 안녕하세요. 정진석 입니다!👋
-last modified at 2022-12-15
+last modified at 2023-03-21
 
 ## Contacts
 - E-mail : jin3378s@gmail.com
-- Blog : https://medium.com/@jin3378s
+- Blog : https://dev-jinsukiya.medium.com/
 
 ## 할 수 있어요
 - 주로 다음과 같은 기술이나 프레임워크를 활용해서 개발하고 있어요.
-  - 백엔드 : Node.js, NestJS, Graphql
+  - 백엔드 : Java Spring, JPA, querydsl, Node.js, NestJS, Graphql
   - 프론트엔드 : ReactJS, Apollo, Graphql
 - 클라우드 서비스는 백엔드 개발자의 기본 소양 정도 다룰 수 있어요.
   - Code Pipline으로 CD 파이프라인을 구축 하고 스케일업, 아웃 로깅 등이 손쉽게 가능한 Elastic beanstalk에 Node.js 어플리케이션을 서빙 할 수 있어요.
