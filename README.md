@@ -3,7 +3,6 @@ last modified at 2023-03-21
 
 ## Contacts
 - E-mail : jin3378s@gmail.com
-- Blog : https://dev-jinsukiya.medium.com/
 
 ## 할 수 있어요
 - 주로 다음과 같은 기술이나 프레임워크를 활용해서 개발하고 있어요.
