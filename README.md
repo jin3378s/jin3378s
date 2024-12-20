@@ -1,29 +1,31 @@
-# 안녕하세요. 정진석 입니다!👋
-last modified at 2023-03-21
+## 안녕하세요. 정진석입니다. 👋
+성장 하며 획득한 소프트/하드 스킬을 기반으로 고객 중심적으로 사고하고 좋은 리더십과 열정적인 팔로워십이 있는 조직을 선호 합니다.
 
-## Contacts
-- E-mail : jin3378s@gmail.com
+jin3378s@gmail.com
 
-## 할 수 있어요
-- 주로 다음과 같은 기술이나 프레임워크를 활용해서 개발하고 있어요.
-  - 백엔드 : Java Spring, JPA, querydsl, Node.js, NestJS, Graphql
-  - 프론트엔드 : ReactJS, Apollo, Graphql
-- 클라우드 서비스는 백엔드 개발자의 기본 소양 정도 다룰 수 있어요.
-  - Code Pipline으로 CD 파이프라인을 구축 하고 스케일업, 아웃 로깅 등이 손쉽게 가능한 Elastic beanstalk에 Node.js 어플리케이션을 서빙 할 수 있어요.
-  - 도커 이미지를 생성 하고 ECS에 서비스를 배포할 수 있어요.
-  - Amplify, Netlify 등을 활용해서 SPA를 서빙할 수 있어요.
+https://github.com/jin3378s
 
+## 기술 역량
 
-## at 코드스테이츠
-### As Engineer
-- 저는 현재 코드스테이츠에서 Software Engineer 로 일하고 있고, 자바스크립트 및 타입스크립트를 활용하여 Node.js 기반의 Backend 서버 개발을 주로 진행 하고 있어요.
-- 소득공유 결제 모델을 제공하는 부트캠프에서 필요한 시스템을 다수 개발 하고 있어요. (고객관리 시스템, 추심 시스템, 결제 시스템, 교육 컨텐츠 관리 시스템 등)
-- Nest.js 프레임워크 monorepo 기능을 활용하여 3개의 BFF 서비스와 3개의 도메인을 각 서비스로 분리하여 한번에 모든 시스템이 다운되지 않도록 관리 하고 있어요.
+---
 
-### As Education Engineer
-- 교육 엔지니어로 수강생 풀스택 교육 컨텐츠 제작 및 라이브 강의를 진행 했어요.
-- Nodejs Server, AWS Deploy 강의를 제작 및 개선 했어요.
+고객의 문제를 이해하고 이를 바탕으로 작성된 시스템 요구사항 작성합니다. 아래 나열된 기술을 활용하여 소프트웨어를 개발 및 운영합니다. 테스트 주도 개발(TDD) 기법을 활용하여 고객의 요구사항과 상관없는 불필요한 코드 작성을 최소화 하고 코드로 만들어내는 가치가 안정적이고 지속적으로 통합 되어 고객에게 전달 되는것에 기여 합니다. 작성 된 테스트를 바탕으로, 자신감 있는 설계 변경을 통해 고객의 요구사항 변화에 빠르게 대응 합니다.
 
+**백엔드**
+
+- Java, Kotlin, Spring, JPA
+- NestJS
+- RDBMS, Redis
+- OOP, TDD, CQRS
+
+**인프라**
+
+- AWS
+- Docker, Github Actions
+
+**프론트엔드**
+
+- React, TS
 
 <!--
 **jin3378s/jin3378s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
