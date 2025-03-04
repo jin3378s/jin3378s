@@ -9,6 +9,8 @@ Blog : https://jinsukiya.tistory.com/
 
 경력기술서 : https://jinsukjeong.notion.site/161be9f6f4d780bfa195c59c18bc7947
 
+포트폴리오 : https://github.com/jin3378s/portfolio
+
 ## 경력
 
 ---
