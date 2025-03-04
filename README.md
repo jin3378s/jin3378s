@@ -2,10 +2,9 @@
 고객의 문제를 이해하고 이를 바탕으로 시스템 요구사항 작성합니다.  [테스트 주도 개발(TDD) 기법](https://jinsukiya.tistory.com/3)을 활용하여 고객의 요구사항과 상관없는 불필요한 코드 작성을 최소화 하고 코드로 만들어내는 가치가 안정적이고 지속적으로 통합 되어 고객에게 전달 되는것에 기여 합니다. 작성 된 테스트를 바탕으로, 자신감 있는 설계 변경을 통해 고객의 요구사항 변화에 빠르게 대응 합니다.
 
 Email : jin3378s@gmail.com
-
 Github : https://github.com/jin3378s
-
 Blog : https://jinsukiya.tistory.com/
+경력기술서 : https://jinsukjeong.notion.site/161be9f6f4d780bfa195c59c18bc7947
 
 ## 경력
 
